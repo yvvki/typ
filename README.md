@@ -1,6 +1,6 @@
 # Typ
 
-Proof-of-concept of text editor in rust.
+Proof-of-concept text editor in rust.
 
 ---
 
